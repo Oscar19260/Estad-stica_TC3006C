@@ -1,2 +1,2 @@
-# Estad-stica_TC3006C
+# Estadística_TC3006C
 Este repositorio es para entregar todas las actividades del módulo de estadística en la concentación de Inteligencia artificial avanzada para la ciencia de datos I 
